@@ -1,5 +1,5 @@
 export default {
-	title: "Φύση",
+	title: "Φύση | Nature",
 	url: "https://example.com/",
 	language: "en",
 	description: "On the nature of things",
