@@ -1,8 +1,8 @@
 export default {
-	title: "Nature",
+	title: "Φύση",
 	url: "https://example.com/",
 	language: "en",
-	description: "A personal reflection based on the nature of things",
+	description: "On the nature of things",
 	author: {
 		name: "Your Name Here",
 		email: "youremailaddress@example.com",
